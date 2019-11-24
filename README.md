@@ -18,4 +18,4 @@ Once you've trained a model with the three classes, copy the cloud link to the m
 
 ## Editable demo:
 
-https://glitch.com/~floss-dab-whip
+https://floss-dab-whip.glitch.me
